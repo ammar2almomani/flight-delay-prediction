@@ -291,7 +291,7 @@ Mean |SHAP| on the November holdout (XGBoost classifier):
 This repository accompanies the paper **"Flight Delay Prediction Using Stacking Ensemble and Novel Aircraft-Level Features Under Temporal Validation."**
 
 ```bibtex
-@article{almomani2026flightdelay,
+@article{flightdelay2026,
   title  = {Flight Delay Prediction Using Stacking Ensemble and Novel Aircraft-Level Features Under Temporal Validation},
   author = {Almomani Almomani, Anas Odat, Mahmoud Al Waqfi , Ali Al Ekish},
   year   = {2026},
